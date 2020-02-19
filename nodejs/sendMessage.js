@@ -9,7 +9,7 @@ var options = {
   body: JSON.stringify(
     {
       "channel": "whatsapp",
-      "recipient": "91987654321",
+      "recipient": "<customer-number>",
       "type": "template",
       "templateId": "greeting_01",
       "templateArgs": []
