@@ -1,0 +1,15 @@
+{
+  "name": "zoko",
+  "version": "1.0.0",
+  "description": "sampler",
+  "main": "sendMessage.js",
+  "scripts": {
+    "start": "node sendMessage.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
